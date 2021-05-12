@@ -1,0 +1,24 @@
+{
+  "name": "seniorteamtrial",
+  "version": "1.0.0",
+  "description": "The trial bot for my senior team application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Jarco-dev",
+  "dependencies": {
+    "discord.js": "12.x",
+    "ffmpeg-static": "4.x",
+    "moment": "2.x",
+    "mysql2": "2.x",
+    "node-opus": "0.x",
+    "sequelize": "6.x",
+    "sequelize-cli": "6.x",
+    "ytdl-core": "4.x"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
